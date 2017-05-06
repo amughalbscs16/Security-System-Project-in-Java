@@ -1,0 +1,7 @@
+Name: Ali Hassaan Mughal
+Assignment #3 Object Oriented Programming.
+Program: The Program consists of security system. It could be easily made more functional but the content was
+getting too much to handle for me to add in the UML. I learned to used UML to a better extent. I learned to used 
+interfaces where required in this cases the Sensors. Made as many classes as i could and tried to gave some
+functionality. I hope this is enough for the level of Assignment.
+Waiting for the next Assignment.
